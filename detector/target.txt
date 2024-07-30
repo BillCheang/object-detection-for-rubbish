@@ -1,0 +1,8 @@
+use batch 15 to test
+change coo format to yolo format
+split dataset to train, vaild, test.
+
+problem:
+1.roboflow:colab to change to kaggle
+2.taco dataset is coo dataset how to upload from local to roboflow
+3. how to add new data, what kind of format ?
